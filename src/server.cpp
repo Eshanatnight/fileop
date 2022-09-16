@@ -1,8 +1,9 @@
 #include "server.hpp"
-#include <vector>
+
 #include <fmt/color.h>
 #include <fmt/core.h>
 #include <ios>
+#include <vector>
 
 Server::Server(const std::string& path, int port) : m_port(port), m_path(path)
 {
