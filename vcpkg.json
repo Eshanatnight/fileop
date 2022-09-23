@@ -1,0 +1,7 @@
+{
+  "name": "fileopt",
+  "version-string": "0.1",
+  "dependencies": [
+    "fmt"
+  ]
+}
